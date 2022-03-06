@@ -1,7 +1,7 @@
 {
   "users": {
-    "id":"1"
-    "firstname": "Muzammil"
-    "LastName":"Ishfaq"
-  }
+    "id":"1",
+    "firstname": "Muzammil",
+    "LastName":"Ishfaq",
+  },
 }
